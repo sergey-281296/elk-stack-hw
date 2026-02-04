@@ -22,9 +22,3 @@ Filebeat настроен для отправки логов Nginx в Elasticsea
 
 ![Filebeat](screenshots/task4_filebeat_kibana.png)
 
-## Файлы проекта
-- docker-compose.yml - настройка контейнеров
-- screenshots/ - скриншоты доказательств
-- nginx-logs/ - логи Nginx
-- logstash-config/ - конфиг Logstash
-- filebeat-config/ - конфиг Filebeat
